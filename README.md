@@ -15,7 +15,9 @@ c.Add to a favorite list your favorite exercises.
 
 5.Payment Paypall ???
 
-6.User settings page a.User can choose which trainning(exercises collection) can share public, b.User can choose notifications and set them by date, c.User can choose to see an info card, fixed in the bottom right of the screen.
+6.User settings page
+a.User can choose which trainning(exercises collection) can share public,
+b.User can choose notifications and set them by date, c.User can choose to see an info card, fixed in the bottom right of the screen.
 
 extra features :
 
