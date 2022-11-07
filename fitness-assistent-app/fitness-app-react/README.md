@@ -25,3 +25,4 @@ extra features :
 - Transform web app into PWA.
 - Offline functionality
 - Nutrition page
+
